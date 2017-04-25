@@ -30,14 +30,9 @@ Collaborate with product managers, business analysts, designers, information arc
 Ensure strict adherence to style guides aligning with the company’s Brand while producing a seamless user experience.
 
 ### Tecnical Skills
-
-First Header | Second Header
+Technology | Description
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
 Web Technologies | HTML5, CSS3, LESS, JAVASCRIPT, JQuery, AJAX, JSON, Bootstrap, DOM. Knowledge of Angular JS, and Node JS, Knowledge of JAVA, JSP
-
 IDE | Eclipse, Sublime Text, Dreamweaver, notepad ++
 Databases |  My SQL, SQL Server
 Operating Systems | Windows XP/2007, Win 10
